@@ -1,5 +1,5 @@
 Steps:
-
+Note: Please use Readme file from Zip Folder for better visibility. Instrustions here are in Code format and not in plain text.
 a. Use provided git repo to get access to the files and once zip file is visible then download it locally and follow the below steps or use readme file:
 
 1. Extract the Zipped file. This will create a directory "FlaskApp".
